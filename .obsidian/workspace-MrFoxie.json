@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "2d6a65e10985593f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea91cdd2b2d702d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "299c0e4c4080979a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3303ce284fab587",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3edfdecb4eff928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf0cd32f89fce6ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a03a7b645135483",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0a90e3f0800eeb5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "699026fdc54cb90f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc34e638ae484fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "790fc446239aac6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f61a1c74ff18a1b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fad53e8579d6311",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93f7f7e33b6610c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf0cd32f89fce6ac",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1",
+    "Untitled",
+    "Untitled.canvas",
+    "Are We Living in Simulation Part 01.md",
+    "Are We Living in Simulation Part 03.md",
+    "Are We Living in Simulation Part 02.md",
+    "Are We Living in Simulation Part 06.md",
+    "Are We Living in Simulation Part 05.md",
+    "Are We Living in Simulation Part 04.md",
+    "[[Are.md"
+  ]
+}
