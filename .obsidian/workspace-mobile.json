@@ -19,8 +19,12 @@
             "id": "59c2d3754145fd71",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Are We Living in Simulation Part 07.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Are We Living in Simulation Part 07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Are We Living in Simulation Part 07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Are We Living in Simulation Part 07.md"
+          }
         }
       }
     ],
