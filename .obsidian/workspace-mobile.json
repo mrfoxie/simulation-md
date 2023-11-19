@@ -11,14 +11,11 @@
             "id": "a37fa7e3582e44be",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -125,
-                  "zoom": 0
-                }
+                "file": "Are We Living in Simulation Part 05.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.canvas",
+            "file": "Are We Living in Simulation Part 05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.canvas",
+            "file": "Are We Living in Simulation Part 05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.canvas"
+            "file": "Are We Living in Simulation Part 05.md"
           }
         }
       }
@@ -134,12 +131,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a37fa7e3582e44be",
+  "active": "1662ec6fffd61f97",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Are We Living in Simulation Part 05.md",
     "Are We Living in Simulation Part 06.md",
     "Are We Living in Simulation Part 07.md",
+    "Untitled.canvas",
+    "Are We Living in Simulation Part 05.md",
     "Are We Living in Simulation Part 01.md",
     "README.md"
   ]

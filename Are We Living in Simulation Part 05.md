@@ -78,7 +78,7 @@ Proof of time travel: Physicists says that theoretical time travel is possible o
 9. [[Are We Living in Simulation Part 05#John Titor]]
 
 ### Mike Tyson Match
-![Mike Tyson Match](https://www.mistrysiddh.com/images/posts/mike-tyson-match.gif)
+![Mike Tyson Match](/images/posts/mike-tyson-match.gif)
 
 In 1995 a match was played between the legendary boxers Mike Tyson and Peter McNeeley. It was not an extraordinary match.
 
@@ -89,7 +89,7 @@ In 1995 a match was played between the legendary boxers Mike Tyson and Peter McN
  It is believed that he was that person who came from the future.
 
 ### Charlie Chaplin Moive
-![Charlie Chaplin Moive](https://www.mistrysiddh.com/images/posts/charlie-chaplin-moive.jpg)
+![Charlie Chaplin Moive](/images/posts/charlie-chaplin-moive.jpg)
 
 “The Circus” was the super hit movie of Charlie Chaplin which was released in 1928.
 
@@ -102,7 +102,7 @@ In 1995 a match was played between the legendary boxers Mike Tyson and Peter McN
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XbO2a3hFmO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### London Bridge Opening
- ![London Bridge Opening](https://www.mistrysiddh.com/images/posts/bridge-time-traveler.jpg)
+ ![London Bridge Opening](/images/posts/bridge-time-traveler.jpg)
 
  Out of all proofs of time travel, this assumes to be solid evidence of time travel.
 
@@ -119,7 +119,7 @@ In 1995 a match was played between the legendary boxers Mike Tyson and Peter McN
  Later the forensic report was also carried out of this photo but this image was found clean and clear; there was no tampering with it.
 
 ### A man from 2256
-![A man from 2256](https://www.mistrysiddh.com/images/posts/man-from-2256.jpg)
+![A man from 2256](/images/posts/man-from-2256.jpg)
 
 A 44-year-old man [Andrew Carlssin](https://www.quora.com/Was-Andrew-Carlssin-actually-from-the-future) was arrested on Jan 28, 2003, in Toronto, Canada, by FBI. He was detained on the suspicion of illegal inside information of the stock market.
 
