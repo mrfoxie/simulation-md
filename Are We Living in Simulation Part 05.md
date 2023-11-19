@@ -138,7 +138,7 @@ A 44-year-old man [Andrew Carlssin](https://www.quora.com/Was-Andrew-Carlssin-ac
 <iframe width="560" height="315" src="https://www.youtube.com/YgfJ21CUvKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Swiss ring watch
- ![Swiss ring watch](https://www.mistrysiddh.com/images/posts/Swiss-ring-watch.png)
+ ![Swiss ring watch](/images/posts/Swiss-ring-watch.png)
 
  A watch was discovered when archaeologists began unsealing a tomb in China. That tomb was from the Ming Dynasty, and it was of 400-year-old.
 
@@ -152,7 +152,7 @@ A 44-year-old man [Andrew Carlssin](https://www.quora.com/Was-Andrew-Carlssin-ac
  Astonishingly, at that time even Switzerland didn’t become a country. Many people correlate this puzzling discovery to time travel.
 
 ### 1500 years old mummy wearing Adidas sneaker shoe
-![1500 years old mummy wearing Adidas sneaker shoe](https://www.mistrysiddh.com/images/posts/1500-years-old-mummy-wearing-adidas-sneaker-shoe.jpg)
+![1500 years old mummy wearing Adidas sneaker shoe](/images/posts/1500-years-old-mummy-wearing-adidas-sneaker-shoe.jpg)
 
 The Mongolian Mummy was found in the Altai Mountains at the height of 10,000 feet from the ocean.
 
@@ -183,21 +183,21 @@ The truth behind this carving is, unfortunately, less interesting. When the chur
 
 There also been a weird looking dragon eating ice cream (even the ice cream cones were not invented until the 20th century), a bull, a crayfish and a lynx.  But why the figures are chipped and broken even though it is not that much old? Vandalism in 2010
 
-![unidentified image](https://www.mistrysiddh.com/images/posts/unidentified.jpg)
+![unidentified image](/images/posts/unidentified.jpg)
 The vandalism has been recovered and now it has clear pictures today.
 
 It is the only church that has some modern addition engraved on the building, Calahorra Cathedral in Spain (from the 16th century) has a cell phone that was added in 1996.
-![phone](https://www.mistrysiddh.com/images/posts/phone.jpg)
+![phone](/images/posts/phone.jpg)
 
 ### The man from Taured
-![The man from Taured](https://www.mistrysiddh.com/images/posts/the-Man-from-Taured.jpg)
+![The man from Taured](/images/posts/the-Man-from-Taured.jpg)
 
 The Man from Taured (sometimes referred to as the Taured Mystery of the Man Without a Country ) is a story about a man who arrives at a Japanese airport from a country called Taured. Many people have claimed this story to be true, so the crux of the problem pertains to Taured. One would notice that there is no country by the name of Taured, either today or during the purported time when the incident took place, i.e. the 1950s. The story ends with the man disappearing (forever) a day after arriving in Japan. Moreover, all of his documents, such as his passport and driver’s license also (conveniently) disappeared, thus making this strange story unsolvable.
 
 #### The Man’s ArrivalThe Man’s Arrival
 The story of the ‘Man from Taured’ begins quite specifically in many sources with a hot day in July 1954. On that particular day, a man was said to have arrived at Haneda Airport, known also as Tokyo International Airport. This man has been described as Caucasian looking with a beard. Whilst his primary language is said to have been French, it has been purported that he spoke Japanese and many other languages as well.
 
-![Customs service](https://www.mistrysiddh.com/images/posts/Customs-service.jpg)
+![Customs service](/images/posts/Customs-service.jpg)
 The sequence of events then differs according to which version of the story one encounters. In one version, this man hands over his passport to be stamped, and the Japanese immigration officer notices something strange. Whilst the passport looked authentic, the country where it was issued, ‘Taured’, was recognized as non-existent, either by the officer or one of his / her colleagues, indicating that the man should be taken away for interrogation. In another version, the man mentioned that he was from Taured, and when the immigration officer did not believe him, he showed him/her his passport.
 
 #### Location of Taured
@@ -206,7 +206,7 @@ The next part of the story details the man trying to convince the immigration of
 
 When shown a map, the man pointed to the area occupied by the Principality of Andorra and was puzzled as to why his country was called Andorra on the map. Both sides refused to give in – the Japanese officers insisted that Taured did not exist, and the traveller argued otherwise.
 
-![Location of Andorra](https://www.mistrysiddh.com/images/posts/Location-of-Andorra.jpg)
+![Location of Andorra](/images/posts/Location-of-Andorra.jpg)
 <sup>Location of Andorra (center of green circle) in Europe  (dark grey).</sup>
 
 #### Vanished!
@@ -221,7 +221,7 @@ It has also been suggested that an incident like that did indeed happen, though 
 Finally, it is also entirely possible that this story is merely an urban legend. The story of the ‘Man from Taured’ might not have even occurred in the first place, and may have just been the creation of someone’s imagination.
 
 ### John Titor
-![John Titor](https://www.mistrysiddh.com/images/posts/john-titor.jpg)<sup> Is this true that this person who was seen on [London Bridge Opening](#london-bridge-opening).
+![John Titor](/images/posts/john-titor.jpg)<sup> Is this true that this person who was seen on [London Bridge Opening](#london-bridge-opening).
 </sup>
 
 One legendary hoax captivated fans of the supernatural and the paranormal like few others. November 2, 2000, saw the first online post by the individual who would come to be known as "John Titor." Titor claimed to be a man from the future, sent to the past to retrieve... a portable computer. Though shrouded by forum avatars, his specific instructions on what he was here to accomplish, and what society would look like in his version of the future, kicked off a frenzy of investigation, speculation, and deception that has lasted for nearly two decades.
@@ -238,9 +238,9 @@ The name “John Titor” was not introduced until January 2001, when TimeTravel
 
 Around 2003, various websites reproduced Titor’s posts, re-arranging them into narratives. Not all refer to the original dates posted.
 
-![IBM-5100](https://www.mistrysiddh.com/images/posts/john-titor-ibm-5100.jpg)
+![IBM-5100](/images/posts/john-titor-ibm-5100.jpg)
 
-In his online postings, Titor claimed to be an American soldier from 2036, based in Tampa, Florida. He was assigned to a governmental time-travel project, and sent back to 1975 to retrieve an IBM 5100 computer which he said was needed to debug various legacy computer programs in 2036; a possible reference to the UNIX year 2038 problem. The IBM 5100 runs the APL and BASICprogramming languages.
+In his online postings, Titor claimed to be an American soldier from 2036, based in Tampa, Florida. He was assigned to a governmental time-travel project, and sent back to 1975 to retrieve an IBM 5100 computer which he said was needed to debug various legacy computer programs in 2036; a possible reference to the UNIX year 2038 problem. The IBM 5100 runs the APL and BASIC programming languages.
 
 Titor had been selected for this mission specifically, given that his paternal grandfather was directly involved with the assembly and programming of the 5100. Titor claimed to be on a stopover in the year 2000 for “personal reasons,” to collect pictures lost in the (future) civil war and to visit his family, of whom he spoke often.
 

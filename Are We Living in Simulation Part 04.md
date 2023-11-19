@@ -2,7 +2,7 @@ As in [[Are We Living in Simulation Part 01]] we have talked about **Quantum Com
 
 ## UFO
 
-![Pentagon UFO Program](https://www.mistrysiddh.com/images/posts/pentagon-ufo-program.jpg)
+![Pentagon UFO Program](/images/posts/pentagon-ufo-program.jpg)
 
 `NSA` isn't the most publicly open of government organizations the agency's main goal is to collect intelligence from various signal and then definition a clandestine organization.
 
