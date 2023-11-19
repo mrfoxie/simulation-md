@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "548adb0bc212e750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Are We Living in Simulation Part 05.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dd4c6b4ac62fc608",
             "type": "leaf",
             "state": {
@@ -28,19 +16,19 @@
             }
           },
           {
-            "id": "d60ddcd71e72d767",
+            "id": "59c2d3754145fd71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Are We Living in Simulation Part 07.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +53,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Sumulation",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +82,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "28d06e087c1e89ad",
@@ -106,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Are We Living in Simulation Part 07.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Are We Living in Simulation Part 07.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Are We Living in Simulation Part 07.md"
+            "file": "README.md"
           }
         }
       }
@@ -152,8 +140,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d60ddcd71e72d767",
+  "active": "59c2d3754145fd71",
   "lastOpenFiles": [
+    "README.md",
     "Are We Living in Simulation Part 07.md",
     "Are We Living in Simulation Part 05.md",
     "Are We Living in Simulation Part 06.md"
