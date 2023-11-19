@@ -4,18 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "86227096cfcbd200",
+        "id": "aec05d79c6eeda76",
         "type": "tabs",
         "children": [
           {
-            "id": "a37fa7e3582e44be",
+            "id": "af66764e5c346147",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "35fbb505269338d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Are We Living in Simulation Part 06.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "089bffab88abe06f",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,24 +170,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1662ec6fffd61f97",
+  "active": "089bffab88abe06f",
   "lastOpenFiles": [
-    "files/Google-Workspace-Status-Dashboard.pdf",
-    "images/posts/matrix-4-resurrections-wallpapers.jpg",
-    "Are We Living in Simulation Part 01.md",
-    "images/posts/US3187583.png",
-    "images/posts/matrix.jpg",
-    "images/posts/softaculous.png",
-    "images/posts/raspberrypi-software3.png",
-    "images/posts/evolve-plants.jpg",
-    "images/posts/pycharm64_PxPA5214bM.png",
-    "images/posts/WSLg_IntegratedDesktop.png",
-    "Are We Living in Simulation Part 02.md",
-    "Are We Living in Simulation Part 03.md",
-    "Are We Living in Simulation Part 04.md",
-    "Are We Living in Simulation Part 05.md",
     "Are We Living in Simulation Part 06.md",
+    "images/posts/r-A858DE45F56D9BC9.png",
+    "images/posts/r-A858DE45F56D9BC9.png.md",
+    "images/posts/They-Lived-1988.jpg",
+    "Are We Living in Simulation Part 05.md",
+    "Are We Living in Simulation Part 04.md",
+    "Are We Living in Simulation Part 03.md",
+    "Are We Living in Simulation Part 02.md",
+    "Are We Living in Simulation Part 01.md",
+    "images/posts/kepler-planets-dual-sun.jpg",
+    "images/posts/korea-KSTAR.jpg",
+    "images/posts/china-lockdown.jpg",
     "Are We Living in Simulation Part 07.md",
+    "ai.md",
+    "images/posts/last_man_war_AI_robots_drone.png",
+    "images/posts/lockdown.jpg",
+    "images/posts/pilles.jpg",
+    "videos/Screencast_Netflix.mkv",
+    "images/posts/time-travel.jpg",
+    "files/US3187583.pdf",
+    "images/posts/pycharm64_QFG764uyci.png",
+    "files/Google-Workspace-Status-Dashboard.pdf",
     "Untitled.canvas",
     "README.md"
   ]
