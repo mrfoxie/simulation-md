@@ -12,12 +12,12 @@ It is been told that time has never stopped or will never be stopped its a conti
 
 
 ### Time Travel
-![Time](https://www.mistrysiddh.com/images/posts/time.jpg)
+![Time](/images/posts/time.jpg)
 
 Time travel is the concept of movement between certain points in time, analogous to movement between different points in space by an object or a person, typically with the use of a hypothetical device known as a time machine.
 
 ### Can we go back in time?
-![Predestination](https://www.mistrysiddh.com/images/posts/predestination.jpg)
+![Predestination](/images/posts/predestination.jpg)
 
 Although humans can't hop into a time machine and go back in time, we do know that clocks on aeroplanes and satellites travel at a different speed than those on earth.
 
@@ -26,7 +26,7 @@ Although humans can't hop into a time machine and go back in time, we do know th
 More than 100 years ago, a famous scientist named Albert Einstein came up with an idea about how time works. He called it relativity. This theory says that time and space are linked together. Einstein also said our universe has a speed limit: nothing can travel faster than the speed of light (186,000 miles per second).
 
 ## Who was Sid Hurwich?
-![Sid Hurwich](https://www.mistrysiddh.com/images/posts/sidhurwich.jpg)
+![Sid Hurwich](/images/posts/sidhurwich.jpg)
 
 Born in 1918, Sid Hurwich was a Jewish appliance repairman living in Toronto Canada who used to experiment with various kinds of technology. As a child, Sid showed great interest in collecting random junk and assembling the pieces into working machines. Later as an adult, he became famous as the man who could fix anything that was broken.
 
@@ -165,7 +165,7 @@ The Mongolian Mummy was found in the Altai Mountains at the height of 10,000 fee
  This mummy was found in April 2016.
 
 ### 17th century astronaut
-![17th-century astronaut](https://www.mistrysiddh.com/images/posts/Resolved_Mystery_Of_Salamanca_Astronaut_From_The_Cathedral_Of_16th_Century.png)
+![17th-century astronaut](/images/posts/Resolved_Mystery_Of_Salamanca_Astronaut_From_The_Cathedral_Of_16th_Century.png)
 Very few are aware that the Soviet pilot Yuri Gagarin was the first person to travel to outer space in 1961. But the mystery remains unveiled is why there a figure that exactly looks like an astronaut engraved in the stone of a 16th-century cathedral?
 
 Built between 1513 and 1733 there is a new cathedral of Salamanca, Spain when space travel was hardly thought of. This has made some people curious to speculate about the origin of the carving: is this the evidence of time travel? Or some other creatures from different planet engraved it? Or is some paranormal force at a play?

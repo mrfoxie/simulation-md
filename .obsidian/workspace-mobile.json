@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "08812ef268c6cb57",
+        "id": "86227096cfcbd200",
         "type": "tabs",
         "children": [
           {
-            "id": "3b14ad5470cf0933",
+            "id": "a37fa7e3582e44be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -125,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Untitled.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Untitled.canvas"
+          }
         }
       }
     ],
@@ -123,12 +134,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b14ad5470cf0933",
+  "active": "a37fa7e3582e44be",
   "lastOpenFiles": [
-    "Are We Living in Simulation Part 01.md",
-    "Are We Living in Simulation Part 07.md",
-    "README.md",
+    "Untitled.canvas",
     "Are We Living in Simulation Part 05.md",
-    "Are We Living in Simulation Part 06.md"
+    "Are We Living in Simulation Part 06.md",
+    "Are We Living in Simulation Part 07.md",
+    "Are We Living in Simulation Part 01.md",
+    "README.md"
   ]
 }

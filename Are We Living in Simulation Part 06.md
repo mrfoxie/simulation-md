@@ -4,7 +4,7 @@ As in [[Are We Living in Simulation Part 01]], we have talked about **Quantum Co
 , [[Are We Living in Simulation Part 05#John Titor]] well if the time travel is possible then it would be much more terrifying then we thought because they can go back to time and change the future or can destroy the future but there are many rules of travelling back or forward in time.
 
 
-![Cicada 3301](https://www.mistrysiddh.com/images/posts/cicada-3301.jpg)
+![Cicada 3301](/images/posts/cicada-3301.jpg)
 
 ## Cicada 3301
 
@@ -18,7 +18,7 @@ The main purpose of the puzzles each year has been to carefully recruit the best
 The main point of Cicada 3301 is to recruit highly intelligent and educated fast code breakers from all over the world through the sets of puzzles. They are looking for highly experienced and talented individuals. To search them, they have devised a test. Also, there is a message hidden in the image and you need to find them to reach them.
 
 ### When did Cicada 3301 start?
-![Cicada 3301](https://www.mistrysiddh.com/images/posts/cicada-3301.png)
+![Cicada 3301](/images/posts/cicada-3301.png)
 
 On the year 4th of January 2012, the mysterious and hardest puzzle on the internet was launched named “Cicada 3301”. It is one of the most mysterious and elaborate puzzles available today for people worldwide. It is a puzzle where you need to have a good deal of technical knowledge, an understanding of number theory, including philosophy, classical music, knowledge of artist references, technological references, Mayan numerology, mathematics, cyberpunk literature, and the life cycles of cicadas. As per some speculations, Cicada 3301 is well-funded and large, considering that it has the deep knowledge to create such complex puzzles and at the same time, capable of supporting the existence of clues in a large number of locations, all far from one another.
 
