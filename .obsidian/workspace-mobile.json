@@ -11,10 +11,8 @@
             "id": "a37fa7e3582e44be",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/posts/WSLg_IntegratedDesktop.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "images/posts/WSLg_IntegratedDesktop.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "images/posts/WSLg_IntegratedDesktop.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "images/posts/WSLg_IntegratedDesktop.png"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,6 +125,13 @@
   },
   "active": "a37fa7e3582e44be",
   "lastOpenFiles": [
+    "images/posts/US3187583.png",
+    "images/posts/matrix.jpg",
+    "images/posts/softaculous.png",
+    "images/posts/raspberrypi-software3.png",
+    "images/posts/evolve-plants.jpg",
+    "images/posts/pycharm64_PxPA5214bM.png",
+    "images/posts/WSLg_IntegratedDesktop.png",
     "Are We Living in Simulation Part 01.md",
     "Are We Living in Simulation Part 02.md",
     "Are We Living in Simulation Part 03.md",
